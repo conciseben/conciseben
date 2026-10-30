@@ -10,9 +10,11 @@ Concise Design is an independent studio in Australia that designs and builds web
 
 | App | What it does | Get it |
 | --- | --- | --- |
-| **Relay** | Accessible messaging for phone, tablet and TV | [Google Play](https://play.google.com/store/apps/details?id=online.relaaay) |
-| **Beep** | A pager and chat app with no account, end-to-end encrypted over MQTT | [Google Play](https://play.google.com/store/apps/details?id=monster.beep) |
-| **Suki: Night Glide** | A night-time platformer: the first world is free, the rest is a one-time unlock | [Google Play](https://play.google.com/store/apps/details?id=com.sukinightglide.app) · [Play on the web](https://sukinightglide.com) |
+| **Relay** | Accessible messaging for phone, tablet and TV | [Google Play](https://play.google.com/store/apps/details?id=online.relaaay) · [relaaay.online](https://relaaay.online) |
+| **WalkiTalki** | Push-to-talk for teams | [Google Play](https://play.google.com/store/apps/details?id=online.walkitalki.app) · [walkitalki.online](https://walkitalki.online) |
+| **Beep** | A pager and chat app with no account, end-to-end encrypted over MQTT | [Google Play](https://play.google.com/store/apps/details?id=monster.beep) · [beep.monster](https://beep.monster) |
+| **Suki: Night Glide** | A pixel-art night-time platformer: the first world is free, the rest is a one-time unlock | [Google Play](https://play.google.com/store/apps/details?id=com.sukinightglide.app) · [Play on the web](https://sukinightglide.com) |
+| **PicRest** | Old photo restoration | [Google Play](https://play.google.com/store/apps/details?id=design.concise.picrest) · [Website](https://concise.design/picrest/) |
 
 ## What we do
 
